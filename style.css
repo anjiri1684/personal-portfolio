@@ -247,7 +247,7 @@
   
   /* Linear Gradient */
   .home .home-content .text-3 span {
-    color: #1e3551;
+    color: #fff;
     background: linear-gradient(135deg, #041d3d, #fff, crimson);
     -webkit-background-clip: text;
     font-weight: 500;
