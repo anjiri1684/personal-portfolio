@@ -211,7 +211,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("https://source.unsplash.com/720x600/?code") no-repeat
+    background: url("https://source.unsplash.com/720x600/?dark-mode") no-repeat
       center;
     height: 100vh;
     color: #fff;
