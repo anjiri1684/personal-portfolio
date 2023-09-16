@@ -39,7 +39,9 @@ $(document).ready(function () {
       strings: [
         "Fullstack Web Developer",
         "Web Developer",
-        "SEO Specialist "
+        "Frontend Developer",
+        "SEO Specialist ",
+        "Digital Marketer"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -50,7 +52,9 @@ $(document).ready(function () {
       strings: [
         "Fullstack Web Developer",
         "Web Developer",
-        "SEO Specialist"
+        "Frontend Developer",
+        "SEO Specialist ",
+        "Digital Marketer"
        
       ],
       typeSpeed: 100,
