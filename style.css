@@ -211,7 +211,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("https://source.unsplash.com/626x626/?laptop") no-repeat
+    background: url("https://source.unsplash.com/626x626/?dark") no-repeat
       center;
     height: 100vh;
     color: #fff;
