@@ -211,8 +211,8 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("https://source.unsplash.com/626x626/?dark") no-repeat
-      center;
+    background: url("https://source.unsplash.com/720x600/?dark,laptop") no-repeat
+    center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
